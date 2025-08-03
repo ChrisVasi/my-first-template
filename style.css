@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  text-align: center;
+}
+
+header {
+  background: #4CAF50;
+  color: white;
+  padding: 50px 20px;
+}
+
+header .btn {
+  background: white;
+  color: #4CAF50;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+#features {
+  padding: 40px 20px;
+}
+
+.feature-box {
+  margin: 20px 0;
+}
+
+#contact {
+  padding: 40px 20px;
+  background: #f4f4f4;
+}
+
+form input, form button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  width: 200px;
+}
+
+button {
+  background: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+footer {
+  background: #333;
+  color: white;
+  padding: 10px;
+}
